@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ]
+  ],
+  "legacy_uid": "af0cbdf4-667a-4f4f-1b8d-2063dd07f755",
+  "instructors": {
+    "content": [
+      "7771e456-7c73-8c37-19b0-dd3f2552d0af",
+      "4b92f9a6-c29f-a3a7-7718-5f6a5a9b28d5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "761d885e-c524-8dac-908c-f660ea52fe07",
+    "website": "21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010"
+  },
+  "course_title": "Riots, Strikes, and Conspiracies in American History",
+  "hide_download": true,
+  "course_description": "This course uses readings and discussions to focus on a series of short-term events that shed light on American politics, culture, and social organization. It emphasizes finding ways to make sense of these complicated, highly traumatic events, and on using them to understand larger processes of change in American history. The class also gives students experience with primary documentation research through a term paper assignment.\n",
+  "department_numbers": [
+    "21H",
+    "11"
+  ],
+  "extra_course_numbers": "11.015J",
+  "primary_course_number": "21H.104J",
+  "course_image_thumbnail": {
+    "content": "feb499cb-23a1-f079-a282-c7dee4a3b72a",
+    "website": "21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "fe409bb9-5651-4aa2-84bf-73a726985f1f",
+  "site_short_id": "21h.104j-fall-2010",
+  "site_url_path": "courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010",
+  "title": "Course Metadata"
+}
