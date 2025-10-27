@@ -16,7 +16,7 @@ All papers must be based on both primary and secondary sources. Papers should no
 
 All papers must include footnotes and a bibliography or bibliographical essay presented in a full, clear, and consistent form.
 
-Since this is a [Communication Intensive Subject](http://web.mit.edu/commreq/), students will normally be asked to rewrite at least one of the first two papers. In writing and rewriting the first two papers and in preparing their final papers, students are encouraged to consult the writing advisor assigned to this class.
+Since this is a {{% resource_link "fa3cb0bf-8646-4367-9a6d-f552589ee070" "Communication Intensive Subject" %}}, students will normally be asked to rewrite at least one of the first two papers. In writing and rewriting the first two papers and in preparing their final papers, students are encouraged to consult the writing advisor assigned to this class.
 
 Note that the purpose of rewrites is to improve the skills not only of students who have difficulty writing but also those who are already capable writers. Rewrites must be turned in within two weeks of when the original papers were handed back. Although there can be no rewrites of final papers, students are encouraged to go over drafts of the final paper with the writing tutor before preparing the final version.
 

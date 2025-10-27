@@ -4,8 +4,6 @@ description: This resource contains information related to syllabus for fall 200
 file: /courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/8adfe30c8a2bc2d2d1f8e5b96a63fd35_MIT21H_104JF10_syllf03.pdf
 file_size: 46997
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

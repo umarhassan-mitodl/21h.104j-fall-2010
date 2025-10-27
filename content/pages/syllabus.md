@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, textbooks and readings, requirements, grading,
   and an archive of syllabi from a variety of terms.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -56,7 +54,7 @@ Students will be required to write three papers, of which the final one will be 
 
 Special classes will be devoted to choosing an appropriate paper topic, conducting research, and preparing final papers. Students will be asked to turn in a brief statement of topics on which they might write their papers on or before the class in Ses #6, and those proposed topics will be discussed in class on Ses #7.
 
-Since this is a [Communication Intensive Subject](http://web.mit.edu/commreq/), students will normally be asked to rewrite at least one of the first two papers.
+Since this is a {{% resource_link "fa3cb0bf-8646-4367-9a6d-f552589ee070" "Communication Intensive Subject" %}}, students will normally be asked to rewrite at least one of the first two papers.
 
 Grading
 -------
